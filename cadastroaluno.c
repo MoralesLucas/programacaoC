@@ -6,7 +6,6 @@ int main(){
     char turno[10];
     float nota;
 
-
     printf("Digite seu nome:\n");
     scanf("%s", &nome);
 
