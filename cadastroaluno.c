@@ -21,5 +21,5 @@ int main(){
     printf("O aluno %s, de matricula %i, estudante do turno %s, teve nota %.2f na última avaliação de ADS.\n", nome , matricula, turno, nota);
 
     return 0;
-
+    
 }
